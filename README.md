@@ -100,9 +100,10 @@ rm -rf /tmp/fresh-sound
 ### Ways to contribute:
 * **Code:** Open an [Issue](https://github.com/your-repo/issues) or submit a Pull Request to help us expand the palette.
 * **Sponsorship:** Support our development through [Open Collective](https://opencollective.com/fresh-and-clean-sound-theme).
+
+<br>Your support directly powers the next generation of sound themes.
+<br>*For detailed information on our sponsorship tiers and project governance, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md#sponsorship-and-governance).*
 ### Our Sponsors & Backers
 
-[![Backers](https://opencollective.com/fresh-and-clean-sound-theme/backers.svg)]
-Your support directly powers the next generation of sound themes.
+[Backers](https://opencollective.com/fresh-and-clean-sound-theme/backers.svg)
 
-<br>*For detailed information on our sponsorship tiers and project governance, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md#sponsorship-and-governance).*
